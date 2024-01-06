@@ -1,9 +1,13 @@
 # personal-info-web
 网络应用开发大作业-个人网页设计
 
+功能演示视频网址：https://live.csdn.net/v/357396?spm=1001.2014.3001.5501
+
 无需联网，纯前端HTML+CSS+JavaScript实现，网页文本并非写死在前端代码中，可以通过修改配置文件自动生成属于你自己的网页。
 
-也可部署在本地服务器，作联网访问测试，使用 http.server 模块创建本地服务器，在地址栏中输入 http://localhost:端口号/你的HTML文件名.html，即可查看网页。
+也可部署在本地服务器，作联网访问测试，使用 http.server 模块创建本地服务器，在地址栏中输入 
+http://localhost:端口号/你的HTML文件名.html，
+即可查看网页。
 
 BJMResume文件下：
 
